@@ -1,0 +1,13 @@
+.AppWrapper {
+	height: fit-content;
+	width: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+@media (max-width: 600px) {
+	.AppWrapper {
+		width: 100vw;
+	}
+}

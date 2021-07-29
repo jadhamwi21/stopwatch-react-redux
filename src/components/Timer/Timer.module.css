@@ -1,0 +1,16 @@
+.Wrapper {
+	text-align: center;
+	height: fit-content;
+	box-sizing: border-box;
+	width: 400px;
+}
+.Slot {
+	display: inline-block;
+	height: fit-content;
+	width: 30px;
+}
+.Seperator {
+	display: inline-block;
+	height: fit-content;
+	width: fit-content;
+}
